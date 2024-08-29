@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Conway/board"
+	"conway/board"
 	"log"
 	"time"
 

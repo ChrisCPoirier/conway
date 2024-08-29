@@ -1,4 +1,4 @@
-module Conway
+module conway
 
 go 1.23.0
 
